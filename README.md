@@ -1,7 +1,6 @@
-# Security Audit for Smart Contracts / Source Code (Skill #140)
+# Security Audit for Smart Contracts / Source Code
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude Code](https://img.shields.io/badge/Claude-Code-Compatible-blue)](https://claude.com/claude-code)
 [![Cluster: software-devops](https://img.shields.io/badge/Cluster-software--devops-green)](https://skills.smartcontract.dev)
 
 A production-grade Claude Code skill that audits smart contracts and source code for vulnerabilities, mapping findings to SWC/CWE/OWASP standards with severity scoring and prioritized remediation.
